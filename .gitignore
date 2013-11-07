@@ -1,0 +1,9 @@
+syntax: glob
+
+.DS_Store
+
+*.key
+port
+componentVersions/
+tasks/
+tools/

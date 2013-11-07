@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Xcode copy" parent="Xcode">
+  <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="DatabaseView.PropertiesAction">
+    <keyboard-shortcut first-keystroke="F4" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift F9" />
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift F1" />
+    <keyboard-shortcut first-keystroke="control meta alt SLASH" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta X" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta alt CLOSE_BRACKET" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta alt OPEN_BRACKET" />
+  </action>
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="control SLASH" />
+  </action>
+  <action id="NextTemplateParameter">
+    <keyboard-shortcut first-keystroke="control SLASH" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt F8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+  </action>
+</keymap>
+

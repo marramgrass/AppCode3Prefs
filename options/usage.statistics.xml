@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1383130743486" allowed="true" show-notification="false" period="weekly">
+    <group id="Debugger" priority="0.0" data="LLDB=1" />
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=3" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
+    <group id="SDK" priority="0.0" data="iOS 6.1=2,iOS 7.0=2" />
+    <group id="Xcode" priority="0.0" data="Xcode 5.0 (5A1413)=0,Xcode 5.0.1 (5A2053)=1" />
+    <group id="file-type" priority="0.0" data="Core Data model=3,ObjectiveC=3,PLAIN_TEXT=2,UNKNOWN=3,Strings=3,Storyboard=2,Images=3,plist=3,XIB=3,CSS=1" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=6" />
+    <group id="module type" priority="0.0" data="CIDR_MODULE=3" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="run-configuration-type" priority="0.0" data="AppleRunConfiguration=3" />
+    <group id="vcs" priority="0.0" data="Git=3" />
+  </component>
+</application>
+
