@@ -40,6 +40,9 @@
       <option name="com.jetbrains.objc.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
   </Objective-C-extensions>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="ObjectiveC">
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />

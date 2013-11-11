@@ -9,14 +9,6 @@
     <option name="EDITOR_FONT_NAME" value="Meslo LG L DZ" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG L DZ" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
