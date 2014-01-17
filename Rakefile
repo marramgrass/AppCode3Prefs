@@ -17,3 +17,17 @@ task :install do
   end
 
 end
+
+task :uninstall do
+  
+  target_folder = "#{ENV['HOME']}/Library/Preferences/appCode20/"
+  Dir.glob(target_folder + '*.backup') do |backup_folder_name|
+  	link_name = backup_folder_name.chomp('.backup')
+
+  	if File.directory?(backup_folder_name) && File.exists?(link_name)
+  	  `rm #{link_name}`
+  	  `mv #{backup_folder_name} #{link_name}`
+  	end
+  end
+
+end
