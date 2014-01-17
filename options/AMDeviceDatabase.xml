@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AMDeviceDatabase">
+    <option name="deviceTypeToArchitecture">
+      <map>
+        <entry key="iPad4,4" value="arm64" />
+      </map>
+    </option>
+  </component>
+</application>
+

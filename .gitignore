@@ -5,5 +5,3 @@ syntax: glob
 *.key
 port
 componentVersions/
-tasks/
-tools/

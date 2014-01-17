@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="PropertyNewsAppv2" values="OCUnitRunConfiguration,AppleRunConfiguration" />
+      <project id="MyTourTalk" values="AppleRunConfiguration" />
+      <project id="Binovation" values="AppleRunConfiguration" />
+      <project id="GoReport" values="OCUnitRunConfiguration,AppleRunConfiguration" />
+      <project id="CocaColaOBPPC" values="OCUnitRunConfiguration,AppleRunConfiguration" />
+    </group>
+    <group name="vcs">
+      <project id="PropertyNewsAppv2" values="Git" />
+      <project id="MyTourTalk" values="Git" />
+      <project id="Binovation" values="Git" />
+      <project id="GoReport" values="Git" />
+      <project id="CocaColaOBPPC" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="PropertyNewsAppv2" values="CIDR_MODULE" />
+      <project id="MyTourTalk" values="CIDR_MODULE" />
+      <project id="Binovation" values="CIDR_MODULE" />
+      <project id="GoReport" values="CIDR_MODULE" />
+      <project id="CocaColaOBPPC" values="CIDR_MODULE" />
+    </group>
+    <group name="Build Settings">
+      <project id="PropertyNewsAppv2" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION " />
+      <project id="MyTourTalk" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="Binovation" values="GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++" />
+      <project id="GoReport" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="CocaColaOBPPC" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC NO,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+    </group>
+    <group name="file-type">
+      <project id="PropertyNewsAppv2" values="plist,UNKNOWN,Core Data model,Images,Strings,XIB,ObjectiveC,Storyboard" />
+      <project id="MyTourTalk" values="UNKNOWN,Images,JSON,Strings,plist,ObjectiveC,Core Data model,XIB,PLAIN_TEXT" />
+      <project id="Binovation" values="plist,XIB,Images,Core Data model,CSS,Strings,Storyboard,UNKNOWN,ObjectiveC" />
+      <project id="GoReport" values="Core Data model,Images,Strings,ObjectiveC,Storyboard,XIB,UNKNOWN,plist" />
+      <project id="CocaColaOBPPC" values="XIB,Core Data model,JSON,PLAIN_TEXT,Asset Catalog Contents,plist,UNKNOWN,Podfile,ObjectiveC,Strings,Storyboard,xconfig,Images" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="PropertyNewsAppv2" values="Project,Project" />
+      <project id="MyTourTalk" values="Project,Project" />
+      <project id="Binovation" values="Project,Project" />
+      <project id="GoReport" values="Project,Project" />
+      <project id="CocaColaOBPPC" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="PropertyNewsAppv2" values="DEFAULT" />
+      <project id="MyTourTalk" values="DEFAULT" />
+      <project id="Binovation" values="DEFAULT" />
+      <project id="GoReport" values="DEFAULT" />
+      <project id="CocaColaOBPPC" values="DEFAULT" />
+    </group>
+    <group name="SDK">
+      <project id="PropertyNewsAppv2" values="iOS 7.0,iOS 6.1" />
+      <project id="MyTourTalk" values="iOS 7.0" />
+      <project id="Binovation" values="iOS 7.0" />
+      <project id="GoReport" values="iOS 7.0,iOS 6.1" />
+      <project id="CocaColaOBPPC" values="iOS 7.0" />
+    </group>
+    <group name="Testing Frameworks">
+      <project id="PropertyNewsAppv2" values="OCUnit" />
+      <project id="GoReport" values="OCUnit" />
+      <project id="CocaColaOBPPC" values="Kiwi" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AppleRunConfiguration.Debug" count="1" />
+      <entry feature="execute.AppleRunConfiguration.Run" count="2" />
+      <entry feature="execute.testingFramework.Kiwi" count="213" />
+      <entry feature="execute.testingFramework.OCUnit" count="40" />
+    </counts>
+  </component>
+</application>
+

@@ -314,5 +314,23 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="ifipad" value="if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) {&#10;     &lt;#ipad-specific code#&gt;&#10;}&#10;else {&#10;     &lt;#specifically non-ipad code#&gt;&#10;}&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
 

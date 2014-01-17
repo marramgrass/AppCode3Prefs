@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1389610658716" allowed="true" show-notification="false" period="weekly">
+    <group id="Build Settings" priority="0.0" data="GCC_VERSION com.apple.compilers.llvm.clang.1_0=5,CLANG_CXX_LANGUAGE_STANDARD gnu++0x=4,GCC_VERSION=4,CLANG_CXX_LIBRARY libc++=4,CLANG_ENABLE_OBJC_ARC YES=5,GCC_C_LANGUAGE_STANDARD gnu99=5,CLANG_ENABLE_OBJC_ARC NO=1" />
+    <group id="Debugger" priority="0.0" data="LLDB=1" />
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=5" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
+    <group id="SDK" priority="0.0" data="iOS 6.1=2,iOS 7.0=5" />
+    <group id="Testing Frameworks" priority="0.0" data="OCUnit=2,Kiwi=1" />
+    <group id="UI Features" priority="0.0" data="Toolbar hidden=1,Nav Bar visible=1,Toolbar + NavBar=1,Tool Window buttons hidden=1,Line Numbers=1,Status bar visible=1,Recent Files   15=1,Tabs Top=1" />
+    <group id="Xcode" priority="0.0" data="Xcode 5.0 (5A1413)=0,Xcode 5.0.1 (5A2053)=0,Xcode 5.0.2 (5A3005)=1" />
+    <group id="features counts" priority="0.0" data="execute.AppleRunConfiguration.Run=2,execute.AppleRunConfiguration.Debug=1,execute.testingFramework.OCUnit=40,execute.testingFramework.Kiwi=1" />
+    <group id="file-type" priority="0.0" data="Core Data model=5,ObjectiveC=5,PLAIN_TEXT=2,UNKNOWN=5,Strings=5,Storyboard=3,Images=4,plist=5,XIB=4,CSS=1,JSON=1,XML=0,xconfig=1,Podfile=1,Asset Catalog Contents=1" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=10" />
+    <group id="module type" priority="0.0" data="CIDR_MODULE=5" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="productivity" priority="0.0" data="navigation.class.hierarchy=1,editing.completion.basic=5053,codeassists.parameterInfo=8,navigation.goto.declaration=49,editing.select.word=17,codeassists.quickFix=2,refactoring.rename=2" />
+    <group id="run-configuration-type" priority="0.0" data="AppleRunConfiguration=5,OCUnitRunConfiguration=3" />
+    <group id="user.os" priority="0.0" data="Mac OS X=1,Mac OS X 10.9=0,Mac OS X 10.9.1=1" />
+    <group id="vcs" priority="0.0" data="Git=5" />
+  </component>
+</application>
+
