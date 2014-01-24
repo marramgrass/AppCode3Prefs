@@ -5,6 +5,8 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="Console.Execute" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.Execute" />
   <action id="DatabaseView.PropertiesAction">
     <keyboard-shortcut first-keystroke="F4" />
   </action>
@@ -17,6 +19,7 @@
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift F1" />
     <keyboard-shortcut first-keystroke="control meta alt SLASH" />
@@ -48,5 +51,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift F10" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="ViewSource" />
 </keymap>
 
