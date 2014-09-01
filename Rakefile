@@ -1,11 +1,11 @@
 require 'rake'
 
-desc "Carrying around my preferences for AppCode 2.x"
+desc "Carrying around my preferences for AppCode 3.x"
 task :install do
 
   Dir.glob('*') do |folder_name|
   	if File.directory?(folder_name)
-  	  target_folder = "#{ENV['HOME']}/Library/Preferences/appCode20/"
+  	  target_folder = "#{ENV['HOME']}/Library/Preferences/appCode30/"
   	  target_folder_name = "#{target_folder}#{folder_name}"
 
   	  if File.exists?(target_folder_name)
@@ -19,8 +19,8 @@ task :install do
 end
 
 task :uninstall do
-  
-  target_folder = "#{ENV['HOME']}/Library/Preferences/appCode20/"
+
+  target_folder = "#{ENV['HOME']}/Library/Preferences/appCode30/"
   Dir.glob(target_folder + '*.backup') do |backup_folder_name|
   	link_name = backup_folder_name.chomp('.backup')
 

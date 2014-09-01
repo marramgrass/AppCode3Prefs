@@ -4,6 +4,10 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="control I" />
+    <keyboard-shortcut first-keystroke="meta alt I" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.Jpa.Execute" />
@@ -29,6 +33,7 @@
     <keyboard-shortcut first-keystroke="shift meta X" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="IntroduceField" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt CLOSE_BRACKET" />
   </action>
@@ -45,6 +50,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="TAB" />
   </action>
+  <action id="OCIntroduceIvar" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt F8" />
   </action>

@@ -2,6 +2,7 @@
 <application>
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -20,7 +21,7 @@
     <option name="FIND_ORIGIN" value="from_cursor" />
     <option name="FIND_SCOPE" value="global" />
     <option name="FIND_CUSTOM_SCOPE" />
-    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
     <option name="PRESERVE_CASE_REPLACE" value="false" />
     <option name="WHOLE_WORDS_ONLY" value="false" />
@@ -34,23 +35,37 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="16">
-          <item index="0" class="java.lang.String" itemvalue="WorkingViewController" />
-          <item index="1" class="java.lang.String" itemvalue="BinOvationApiRequest" />
-          <item index="2" class="java.lang.String" itemvalue="respondsToSelector" />
-          <item index="3" class="java.lang.String" itemvalue="initialTableFr" />
-          <item index="4" class="java.lang.String" itemvalue="kEditImage" />
-          <item index="5" class="java.lang.String" itemvalue="keywordEditing" />
-          <item index="6" class="java.lang.String" itemvalue="PRice" />
-          <item index="7" class="java.lang.String" itemvalue="pickerTit" />
-          <item index="8" class="java.lang.String" itemvalue="registerN" />
-          <item index="9" class="java.lang.String" itemvalue="location" />
-          <item index="10" class="java.lang.String" itemvalue="Downlaod" />
-          <item index="11" class="java.lang.String" itemvalue="PNNavi" />
-          <item index="12" class="java.lang.String" itemvalue="offline" />
-          <item index="13" class="java.lang.String" itemvalue="complete" />
-          <item index="14" class="java.lang.String" itemvalue="masterViewI" />
-          <item index="15" class="java.lang.String" itemvalue="self.dataSource" />
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="UIDevice" />
+          <item index="1" class="java.lang.String" itemvalue="- (UIInterfaceOrientation)preferredInterfaceOrientationForPresentation" />
+          <item index="2" class="java.lang.String" itemvalue="scrollEnab" />
+          <item index="3" class="java.lang.String" itemvalue="BrochureLoca" />
+          <item index="4" class="java.lang.String" itemvalue="UIEdgeInsets" />
+          <item index="5" class="java.lang.String" itemvalue="reloadData" />
+          <item index="6" class="java.lang.String" itemvalue="refreshActionCells" />
+          <item index="7" class="java.lang.String" itemvalue="Area" />
+          <item index="8" class="java.lang.String" itemvalue="TopSearch" />
+          <item index="9" class="java.lang.String" itemvalue="LogoURL" />
+          <item index="10" class="java.lang.String" itemvalue="Featured" />
+          <item index="11" class="java.lang.String" itemvalue="UIColor" />
+          <item index="12" class="java.lang.String" itemvalue="allowManualSliding" />
+          <item index="13" class="java.lang.String" itemvalue="JSSlidingViewControllerDelegate" />
+          <item index="14" class="java.lang.String" itemvalue="setStatusBar" />
+          <item index="15" class="java.lang.String" itemvalue="UIPinch" />
+          <item index="16" class="java.lang.String" itemvalue="NSKeyedArchiver" />
+          <item index="17" class="java.lang.String" itemvalue="saveImage:" />
+          <item index="18" class="java.lang.String" itemvalue="@&quot;w" />
+          <item index="19" class="java.lang.String" itemvalue="setEdgeI" />
+          <item index="20" class="java.lang.String" itemvalue="BundleIdentifier" />
+          <item index="21" class="java.lang.String" itemvalue="BrochureAdvertViewController" />
+          <item index="22" class="java.lang.String" itemvalue="Using" />
+          <item index="23" class="java.lang.String" itemvalue="TITokenField" />
+          <item index="24" class="java.lang.String" itemvalue="addTokenToSearchField" />
+          <item index="25" class="java.lang.String" itemvalue="_tokenCaret" />
+          <item index="26" class="java.lang.String" itemvalue="TITokenFieldControlEventFrameWillChange" />
+          <item index="27" class="java.lang.String" itemvalue="Segue" />
+          <item index="28" class="java.lang.String" itemvalue="self" />
+          <item index="29" class="java.lang.String" itemvalue="title" />
         </list>
       </value>
     </option>
@@ -86,24 +101,6 @@
       </value>
     </option>
   </component>
-  <component name="HttpConfigurable">
-    <option name="PROXY_TYPE_IS_SOCKS" value="false" />
-    <option name="USE_HTTP_PROXY" value="false" />
-    <option name="USE_PROXY_PAC" value="false" />
-    <option name="PROXY_HOST" value="" />
-    <option name="PROXY_PORT" value="80" />
-    <option name="PROXY_AUTHENTICATION" value="false" />
-    <option name="PROXY_LOGIN" value="" />
-    <option name="PROXY_PASSWORD_CRYPT" value="" />
-    <option name="KEEP_PROXY_PASSWORD" value="false" />
-    <option name="myGenericPasswords">
-      <map />
-    </option>
-    <option name="myGenericCancelled">
-      <set />
-    </option>
-    <option name="PROXY_EXCEPTIONS" value="" />
-  </component>
   <component name="OCExternalDocSettings">
     <option name="browser" value="DASH" />
   </component>
@@ -113,8 +110,15 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Documents/Silvertongue" />
+        <option value="$USER_HOME$/Documents/PropertyNewsiOS" />
+        <option value="$USER_HOME$/Documents/Jobfinder/NIJobfinder-iOS/NIJobfinder" />
+        <option value="$USER_HOME$/Documents/News/Belfast Telegraph" />
+        <option value="$USER_HOME$/Documents/Personal/SingleUpdate/Single Update" />
+        <option value="$USER_HOME$/Documents/GoReport/GoReportiPad" />
+        <option value="$USER_HOME$/Documents/TaxiZapp/Driver" />
         <option value="$USER_HOME$/Documents/CocaColaOBPPC" />
+        <option value="$USER_HOME$/Documents/OLI/SnoutiOS" />
+        <option value="$USER_HOME$/Documents/Silvertongue" />
         <option value="$USER_HOME$/Documents/MyTourTalk/iOS" />
         <option value="$USER_HOME$/Documents/PropertyNews/iOS" />
         <option value="$USER_HOME$/Documents/Binovation/BinovationApp" />
@@ -123,19 +127,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Documents/CocaColaOBPPC" />
+        <option value="$USER_HOME$/Documents/PropertyNewsiOS" />
       </list>
     </option>
-    <option name="names">
-      <map>
-        <entry key="$USER_HOME$/Documents/Binovation/BinovationApp" value="" />
-        <entry key="$USER_HOME$/Documents/CocaColaOBPPC" value="" />
-        <entry key="$USER_HOME$/Documents/GoReport/GoReport" value="" />
-        <entry key="$USER_HOME$/Documents/MyTourTalk/iOS" value="" />
-        <entry key="$USER_HOME$/Documents/PropertyNews/iOS" value="" />
-      </map>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/Documents/Silvertongue" />
+    <option name="lastPath" value="$USER_HOME$/Documents/PropertyNewsiOS" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
@@ -154,12 +149,12 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="586e75" />
+      <option name="FOREGROUND" value="475b62" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="586e75" />
+      <option name="FOREGROUND" value="475b62" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_TYPE" value="5" />
     </pattern>
@@ -173,7 +168,7 @@
     <option name="myKnownUpdateChannels">
       <value>
         <list size="1">
-          <item index="0" class="java.lang.String" itemvalue="appcode_25" />
+          <item index="0" class="java.lang.String" itemvalue="appcode_3" />
         </list>
       </value>
     </option>
@@ -183,9 +178,9 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1391522099873" />
-    <option name="LAST_BUILD_CHECKED" value="OC-131.661" />
-    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+    <option name="LAST_TIME_CHECKED" value="1409575443055" />
+    <option name="LAST_BUILD_CHECKED" value="OC-137.148" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -224,6 +219,15 @@
   </component>
   <component name="XSLT-Support.Configuration">
     <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode6-Beta.app/Contents/Developer" />
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

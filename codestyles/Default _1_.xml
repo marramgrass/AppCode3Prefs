@@ -5,7 +5,7 @@
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="USE_TAB_CHARACTER" value="false" />
       <option name="SMART_TABS" value="false" />
       <option name="LABEL_INDENT_SIZE" value="0" />
       <option name="LABEL_INDENT_ABSOLUTE" value="false" />
@@ -14,6 +14,7 @@
   </option>
   <Objective-C>
     <option name="METHOD_BRACE_PLACEMENT" value="2" />
+    <option name="INTRODUCE_STATIC_CONSTS" value="false" />
     <option name="INTRODUCE_GLOBALS_TO_HEADER" value="false" />
   </Objective-C>
   <Objective-C-extensions>
@@ -51,7 +52,6 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

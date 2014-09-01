@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="#xdebugger.XInspectDialog.0.0.1920.1080" x="-570" y="184" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="749" y="265" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1920.1080" x="769" y="303" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="225" />
     <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="641" y="270" />
     <location key="OptionsEditor.0.0.1920.1080" x="372" y="89" />
@@ -12,43 +14,63 @@
     <location key="#Inspections.0.0.1920.1080" x="573" y="227" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="300" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="211" />
+    <location key="dock-window-1.0.0.1920.1080" x="-1605" y="93" />
+    <location key="#Menus_and_Toolbars.0.0.1920.1080" x="739" y="320" />
     <location key="projectSettings.0.0.1920.1080" x="448" y="202" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="724" y="447" />
     <location key="findTextDialog.0.0.1920.1080" x="754" y="302" />
     <location key="OptionsEditor.0.0.1366.768" x="0" y="22" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="669" y="180" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="100" y="100" />
+    <location key="git4idea.push.GitPushDialog.0.0.1920.1080" x="602" y="273" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1391" y="797" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="798" y="161" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1920.1080" x="648" y="311" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="-752" y="242" />
     <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="960" height="527" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1897" height="238" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="916" height="865" />
     <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1897" height="331" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1897" height="238" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="916" height="865" />
     <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1897" height="331" />
     <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1897" height="331" />
     <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="1897" height="331" />
     <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" width="700" height="500" />
     <size key="NewXcodeProjectWizard.0.0.1920.1080" width="600" height="400" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1897" height="359" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="916" height="865" />
+    <size key="dock-window-1.0.0.1920.1080" width="1042" height="952" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1897" height="331" />
     <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1897" height="331" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1897" height="359" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1897" height="238" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1897" height="359" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="916" height="865" />
     <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1897" height="331" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1897" height="359" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="916" height="865" />
     <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1897" height="331" />
     <size key="OptionsEditor.0.0.1366.768" width="1224" height="742" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1720" height="880" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1897" height="238" />
-    <extendedState key="projectSettings.1" state="400" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="916" height="865" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="199" height="172" />
+    <size key="GridCell.Tab.0.left.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.0.center.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.1.left.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.1.center.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.1.right.-1920.0.1920.1080" width="916" height="865" />
+    <size key="GridCell.Tab.1.bottom.-1920.0.1920.1080" width="916" height="865" />
+    <size key="NewXcodeProjectWizard.-1920.0.1920.1080" width="600" height="400" />
     <extendedState key="projectSettings.0" state="150" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="dock-window-1" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="projectSettings.1" state="400" />
   </component>
   <component name="LafManager">
     <laf class-name="com.apple.laf.AquaLookAndFeel" />
   </component>
   <component name="PropertiesComponent">
+    <property name="OCUnitSupport.sortTestsAlphabetically" value="false" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="MemberChooser.sorted" value="false" />
@@ -59,8 +81,9 @@
     <property name="sm_test_statistics_table_columnsOrder0" value="0" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
-    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="KEYMAP" value="" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="NewXcodeFile.Left" value="iOS.Cocoa Touch" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -68,15 +91,22 @@
     <property name="FileTemplates.SelectedTemplate" value="Objective-C Class" />
     <property name="null.splitter" value="0.3" />
     <property name="Non-Project Files" value="Yellow" />
-    <property name="NewXcodeFile.Right" value="Objective-C test case class" />
+    <property name="NewXcodeFile.Right" value="Objective-C category" />
     <property name="installation.uid" value="d4a58b0d-0a35-469c-833e-ec6efbbf727a" />
     <property name="AppCode.initialConfigurationShown" value="true" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="FindSplitterProportion" value="0.25" />
-    <property name="OCUnitSupport.hidePassedTests" value="false" />
+    <property name="OCUnitSupport.hidePassedTests" value="true" />
     <property name="sm_test_statistics_table_columnsWidth0" value="75" />
     <property name="ColorChooser.RecentColors" value="6-90-147-255,,,29-106-202-255" />
     <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.OC-137.48" value="17" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="evlsprt3.OC-137.55" value="15" />
+    <property name="NewXcodeProject.Left" value="iOS.Application" />
+    <property name="NewXcodeProject.Right" value="Empty Application" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
   </component>
 </application>
 
