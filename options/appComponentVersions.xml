@@ -3,8 +3,8 @@
   <component name="AMDeviceDatabase" version="1409575454683" />
   <component name="AbbreviationManager" version="1409575454684" />
   <component name="BaseRefactoringSettings" version="1409240511159" />
-  <component name="CachedDictionaryState" version="1409322235556" />
-  <component name="CocoaPodsSettings" version="1409322235557" />
+  <component name="CachedDictionaryState" version="1409575739189" />
+  <component name="CocoaPodsSettings" version="1409575739189" />
   <component name="CodeFoldingSettings" version="1409323775160" />
   <component name="CodeInsightSettings" version="1409575454685" />
   <component name="CodeStyleSchemeSettings" version="1409575454685" />
@@ -13,12 +13,12 @@
   <component name="EditorColorsManagerImpl" version="1409575454686" />
   <component name="EditorSettings" version="1409575454687" />
   <component name="Encoding" version="1409575454687" />
-  <component name="ExportableFileTemplateSettings" version="1409322235559" />
+  <component name="ExportableFileTemplateSettings" version="1409575739191" />
   <component name="ExportableTemplateSettings" version="1409324776847" />
   <component name="FeatureUsageStatistics" version="1409571152081" />
   <component name="FileBasedIndex" version="1409575454687" />
   <component name="FileTypeManager" version="1409575454691" />
-  <component name="FindSettings" version="1409324776850" />
+  <component name="FindSettings" version="1409575739192" />
   <component name="GemManagerSettings" version="1409575454697" />
   <component name="GeneralSettings" version="1409575454697" />
   <component name="Git.Application.Settings" version="1409575454698" />
@@ -38,7 +38,7 @@
   <component name="RecentDirectoryProjectsManager" version="1409575454702" />
   <component name="Registry" version="1409575454702" />
   <component name="RunnerLayoutSettings" version="1409571439808" />
-  <component name="StatisticsApplicationUsages" version="1409575454703" />
+  <component name="StatisticsApplicationUsages" version="1409575739197" />
   <component name="SystemNotifications" version="1409324831449" />
   <component name="TemplateSettings" version="1409324776854" />
   <component name="TodoConfiguration" version="1409575454703" />
@@ -52,7 +52,7 @@
   <component name="XPathView.XPathViewPlugin" version="1409575454708" />
   <component name="XSLT-Support.Configuration" version="1409575454709" />
   <component name="XcodeSettings" version="1409575454709" />
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1409322235581" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1409575739200" />
   <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1409575454710" />
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1409575454710" />
   <component name="libraryTable" version="1409575454726" />

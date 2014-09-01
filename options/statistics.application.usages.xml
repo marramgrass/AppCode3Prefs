@@ -2,15 +2,48 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="UI File Format">
-      <project id="PropertyNewsAppv2" values="Modern Xib iPad (3.0),Xib iPhone (8.00),Storyboard iPad (3.0),Modern Xib iPhone (3.0),Storyboard iPhone (3.0)" />
+      <project id="PropertyNewsAppv2" values="Modern Xib iPhone (3.0),Storyboard iPhone (3.0),Xib iPhone (8.00),Storyboard iPad (3.0),Modern Xib iPad (3.0)" />
       <project id="Belfast Telegraph" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
       <project id="TaxiZappDriver" values="Storyboard iPhone (3.0),Xib iPhone (8.00),Modern Xib iPhone (3.0)" />
       <project id="GoReport" values="Modern Xib iPad (3.0),Storyboard iPad (3.0)" />
       <project id="Single Update" values="Storyboard iPhone (3.0)" />
       <project id="NIJobfinder" values="Modern Xib iPhone (3.0),Storyboard iPhone (3.0)" />
     </group>
+    <group name="vcs">
+      <project id="PropertyNewsAppv2" values="Git" />
+      <project id="MyTourTalk" values="Git" />
+      <project id="TaxiZappDriver" values="Git" />
+      <project id="Binovation" values="Git" />
+      <project id="GoReport" values="Git" />
+      <project id="CocaColaOBPPC" values="Git" />
+    </group>
+    <group name="Build Settings">
+      <project id="PropertyNewsAppv2" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_VERSION " />
+      <project id="Belfast Telegraph" values="CLANG_ENABLE_OBJC_ARC NO,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="GoReport" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="Single Update" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC NO,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LIBRARY libc++" />
+      <project id="NIJobfinder" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC NO" />
+    </group>
+    <group name="Testing Frameworks">
+      <project id="PropertyNewsAppv2" values="OCUnit" />
+      <project id="Belfast Telegraph" values="Kiwi=2" />
+      <project id="GoReport" values="OCUnit" />
+      <project id="NIJobfinder" values="Kiwi" />
+      <project id="CocaColaOBPPC" values="Kiwi" />
+    </group>
+    <group name="SDK">
+      <project id="PropertyNewsAppv2" values="iOS 7.1" />
+      <project id="MyTourTalk" values="iOS 7.0" />
+      <project id="Belfast Telegraph" values="iOS 7.1" />
+      <project id="TaxiZappDriver" values="iOS 7.1,iOS 6.1" />
+      <project id="Binovation" values="iOS 7.0" />
+      <project id="GoReport" values="iOS 7.1" />
+      <project id="Single Update" values="iOS 7.1" />
+      <project id="NIJobfinder" values="iOS 7.1" />
+      <project id="CocaColaOBPPC" values="iOS 7.1" />
+    </group>
     <group name="run-configuration-type">
-      <project id="PropertyNewsAppv2" values="OCUnitRunConfiguration,AppleRunConfiguration" />
+      <project id="PropertyNewsAppv2" values="AppleRunConfiguration,OCUnitRunConfiguration" />
       <project id="MyTourTalk" values="AppleRunConfiguration" />
       <project id="Belfast Telegraph" values="OCUnitRunConfiguration,AppleRunConfiguration" />
       <project id="TaxiZappDriver" values="AppleRunConfiguration" />
@@ -31,38 +64,12 @@
       <project id="NIJobfinder" values="CIDR_MODULE" />
       <project id="CocaColaOBPPC" values="CIDR_MODULE" />
     </group>
-    <group name="vcs">
-      <project id="PropertyNewsAppv2" values="Git" />
-      <project id="MyTourTalk" values="Git" />
-      <project id="TaxiZappDriver" values="Git" />
-      <project id="Binovation" values="Git" />
-      <project id="GoReport" values="Git" />
-      <project id="CocaColaOBPPC" values="Git" />
-    </group>
-    <group name="Build Settings">
-      <project id="PropertyNewsAppv2" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99" />
-      <project id="Belfast Telegraph" values="CLANG_ENABLE_OBJC_ARC NO,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES" />
-      <project id="GoReport" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
-      <project id="Single Update" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC NO,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LIBRARY libc++" />
-      <project id="NIJobfinder" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC NO" />
-    </group>
     <group name="file-type">
-      <project id="PropertyNewsAppv2" values="ObjectiveC,Core Data model,plist,Images,UNKNOWN,Storyboard,PLAIN_TEXT,XIB,Strings" />
+      <project id="PropertyNewsAppv2" values="PLAIN_TEXT,Images,Storyboard,XIB,Strings,Core Data model,plist,ObjectiveC,UNKNOWN" />
       <project id="Belfast Telegraph" values="PLAIN_TEXT,plist,CSS,Storyboard,Images,Strings,xconfig,Asset Catalog Contents,XIB,XML,ObjectiveC,UNKNOWN,Podfile" />
       <project id="GoReport" values="Core Data model,Images,plist,XIB,Strings,ObjectiveC,UNKNOWN,JSON,Storyboard" />
       <project id="Single Update" values="Storyboard,xconfig,Podfile,Strings,PLAIN_TEXT,plist,UNKNOWN,ObjectiveC,Asset Catalog Contents" />
       <project id="NIJobfinder" values="xconfig,ObjectiveC,CSS,XIB,plist,Storyboard,Images,UNKNOWN,Asset Catalog Contents,Strings,PLAIN_TEXT,Core Data model,Podfile" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="PropertyNewsAppv2" values="Project,Project" />
-      <project id="MyTourTalk" values="Project,Project" />
-      <project id="Belfast Telegraph" values="Project,Project" />
-      <project id="TaxiZappDriver" values="Project,Project" />
-      <project id="Binovation" values="Project,Project" />
-      <project id="GoReport" values="Project,Project" />
-      <project id="Single Update" values="Project,Project" />
-      <project id="NIJobfinder" values="Project,Project" />
-      <project id="CocaColaOBPPC" values="Project,Project" />
     </group>
     <group name="JavaScript versions">
       <project id="PropertyNewsAppv2" values="DEFAULT" />
@@ -75,23 +82,16 @@
       <project id="NIJobfinder" values="DEFAULT" />
       <project id="CocaColaOBPPC" values="DEFAULT" />
     </group>
-    <group name="SDK">
-      <project id="PropertyNewsAppv2" values="iOS 7.1" />
-      <project id="MyTourTalk" values="iOS 7.0" />
-      <project id="Belfast Telegraph" values="iOS 7.1" />
-      <project id="TaxiZappDriver" values="iOS 7.1,iOS 6.1" />
-      <project id="Binovation" values="iOS 7.0" />
-      <project id="GoReport" values="iOS 7.1" />
-      <project id="Single Update" values="iOS 7.1" />
-      <project id="NIJobfinder" values="iOS 7.1" />
-      <project id="CocaColaOBPPC" values="iOS 7.1" />
-    </group>
-    <group name="Testing Frameworks">
-      <project id="PropertyNewsAppv2" values="OCUnit" />
-      <project id="Belfast Telegraph" values="Kiwi=2" />
-      <project id="GoReport" values="OCUnit" />
-      <project id="NIJobfinder" values="Kiwi" />
-      <project id="CocaColaOBPPC" values="Kiwi" />
+    <group name="javaScript Scope Usages">
+      <project id="PropertyNewsAppv2" values="Project,Project" />
+      <project id="MyTourTalk" values="Project,Project" />
+      <project id="Belfast Telegraph" values="Project,Project" />
+      <project id="TaxiZappDriver" values="Project,Project" />
+      <project id="Binovation" values="Project,Project" />
+      <project id="GoReport" values="Project,Project" />
+      <project id="Single Update" values="Project,Project" />
+      <project id="NIJobfinder" values="Project,Project" />
+      <project id="CocaColaOBPPC" values="Project,Project" />
     </group>
   </component>
   <component name="UsageTrigger">
